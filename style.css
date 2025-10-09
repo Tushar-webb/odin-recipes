@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(238, 121, 121);
+}
+
+.heading {
+    font-family: "Londrina Shadow", sans-serif;
+    font-weight: 400;
+    background-color: white;
+    margin: 10px 0px;
+    font-size: 70px;
+    padding: 10px;
+}
+
+.unorderedList {
+    padding: 10px;
+}
+
+.unorderedList a {
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+    font-family: sans-serif;
+}
+
+.unorderedList a:hover {
+    color: white;
+}
